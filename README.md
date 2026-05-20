@@ -20,7 +20,7 @@ LORD OF DARKNESS - Elite Memory Dumper
 ```bash
 git clone https://github.com/NgaTon007/Lod-memory-dumping-.git
 
-cd Lod-memory-dumping-.git
+cd Lod-memory-dumping-
 
 chmod +x dumper.sh
 ./dumper.sh
