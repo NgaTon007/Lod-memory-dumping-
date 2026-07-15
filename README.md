@@ -22,7 +22,12 @@ git clone https://github.com/NgaTon007/Lod-memory-dumping-.git
 
 cd Lod-memory-dumping-
 
+chmod +x install
+
 chmod +x dumper.sh
+
+./install
+
 ./dumper.sh
 
 ```
